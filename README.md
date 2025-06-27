@@ -20,7 +20,4 @@ This project uses a machine learning model trained via Edge Impulse to classify 
 - Image quality (resolution, lighting) and size had a significant impact on training and testing.
 - Balanced datasets with varied angles improved generalization.
 
-> Note: YOLOv5 was explored early on, but was postponed due to processing time and hardware limitations for larger image sets.
----
-
-
+> YOLOv5 was my original choice for this project, but due to system limits, I moved forward with Edge Impulse. I plan to try YOLOv5 again later and update this project.
